@@ -1,4 +1,4 @@
-# 15 principles for the successful delivery of data sharing initiatives - PDF versions
+# 15 principles for the successful delivery of data sharing initiatives - PDF version
 
 See the main [README file](../README.md) for full details of the 15 principles for the successful delivery of data sharing initiatives. This folder contains PDF versions of the documents.
 
