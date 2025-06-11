@@ -12,7 +12,7 @@ We are now ready to share these principles more widely. We hope that you may gai
 
 The main document provides a summary of the lessons and key learnings, with additional detail for each found in Appendix 1. We hope that they serve as a useful guide for leaders to provide structure to projects and assist with planning. The principles also provide specific learnings and tips for implementers of digital data projects.   
 
-More information about NUAR can be found on GOV.UK and the full list of delegations involved in developing these principles can be found in Appendix 2.
+More information about NUAR can be found on **[GOV.UK](https://www.gov.uk/guidance/national-underground-asset-register-nuar)** and the full list of delegations involved in developing these principles can be found in Appendix 2.
 
 ## Purpose
 
