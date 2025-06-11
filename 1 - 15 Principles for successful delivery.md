@@ -1,0 +1,19 @@
+# 15 principles for the successful delivery of data sharing initiatives
+
+<table><tr><th valign="top"><a name="_summary_principles"></a><b>Theme</b></th><th valign="top"><b>Headline</b></th><th valign="top"><b>Lesson</b></th></tr>
+<tr><td rowspan="9"><p>Theme 1 – </p><p>Set up for Success</p><p></p></td><td valign="top">1. <b>Focus on high-value outcome(s)</b></td><td valign="top">Clearly identify the problem(s) you are seeking to solve. Select use cases with high public value and retain focus, but design-in flexibility and extensibility for when new user bases / use cases / routes to market emerge.</td></tr>
+<tr><td valign="top"><p>2. <b>Embrace community and collaboration</b></p><p></p></td><td valign="top">Sustainable change is driven from the bottom up. Adopt and build a community motivated to effect that sustainable change via shared incentives and ongoing co-operation.</td></tr>
+<tr><td valign="top">3. <b>Listen and learn</b></td><td valign="top">Build upon previous and complementary work.</td></tr>
+<tr><td valign="top">4. <b>Build a business case</b></td><td valign="top">Sustainable change needs top-down support. Build a strong, evidence-based business case and a compelling narrative for high-level buy-in and funding.</td></tr>
+<tr><td valign="top">5. <b>Contract flexibly</b></td><td valign="top">Implement outcomes-focused contracts that support flexibility.</td></tr>
+<tr><td valign="top">6. <b>Embed security</b></td><td valign="top">Build in security from day one and in all aspects of delivery.</td></tr>
+<tr><td valign="top">7. <b>Think sustainably</b></td><td valign="top">Design-in sustainability of process, operation and long-term funding, including consideration of ongoing liabilities and business models.</td></tr>
+<tr><td valign="top"><p>8. <b>Build empowered teams</b></p><p></p></td><td valign="top">Build a team with a clear shared vision and purpose, empowered and trusted to deliver the outcomes and resilient to change.</td></tr>
+<tr><td valign="top">9. <b>Embed structure and governance</b></td><td valign="top">Design a robust programme structure with clear lines of communication and strong governance.</td></tr>
+<tr><td rowspan="3"><p>Theme 2 – Execute</p><p></p></td><td valign="top">10. <b>Develop frameworks to address data sharing barriers</b></td><td valign="top">Implement a robust legal framework to enable data sharing in the absence of legislation. Address questions of liability and concerns about data quality.</td></tr>
+<tr><td valign="top">11. <b>Remember not all data is equal</b></td><td valign="top">Prioritise data according to value for the use case. Build in the flexibility – technically and philosophically – to deal with high variability in data maturity and quality.</td></tr>
+<tr><td valign="top">12. <b>Be agile and iterate</b></td><td valign="top">Focus on user needs through constant two-way engagement and act on feedback; work in the open; start small, move fast and deliver value early. It is often better to deliver something useful sooner, than getting consumed trying to deliver a perfect product first time.</td></tr>
+<tr><td rowspan="3"><p>Theme 3 –</p><p>` `Entry to service</p><p></p></td><td valign="top">13. <b>Remember scale and adoption</b></td><td valign="top">Balance delivery with scaling and adoption. The service must deliver value to users and users must have the skills to incorporate the service into their day-to-day work.</td></tr>
+<tr><td valign="top">14. <b>Encourage innovation</b></td><td valign="top">Design a process for acknowledging and evaluating additional use cases: turn “No” into “Not yet”.</td></tr>
+<tr><td valign="top"><p>15. <b>Use regulation</b></p><p></p></td><td valign="top">Legislation will be required to maximise benefits. Understand what falls under updated guidance, regulation or legislation.</td></tr>
+</table>
