@@ -1,7 +1,7 @@
 # 15 principles for the successful delivery of data sharing initiatives
 
 <table><tr><th valign="top"><a name="_summary_principles"></a><b>Theme</b></th><th valign="top"><b>Headline</b></th><th valign="top"><b>Lesson</b></th></tr>
-<tr><td rowspan="9"><p>Theme 1 – </p><p>Set up for Success</p><p></p></td><td valign="top">1. <b>Focus on high-value outcome(s)</b></td><td valign="top">Clearly identify the problem(s) you are seeking to solve. Select use cases with high public value and retain focus, but design-in flexibility and extensibility for when new user bases / use cases / routes to market emerge.</td></tr>
+<tr><td rowspan="9"><p>Theme 1 – </p><p>Set up for success</p><p></p></td><td valign="top">1. <b>Focus on high-value outcome(s)</b></td><td valign="top">Clearly identify the problem(s) you are seeking to solve. Select use cases with high public value and retain focus, but design-in flexibility and extensibility for when new user bases / use cases / routes to market emerge.</td></tr>
 <tr><td valign="top"><p>2. <b>Embrace community and collaboration</b></p><p></p></td><td valign="top">Sustainable change is driven from the bottom up. Adopt and build a community motivated to effect that sustainable change via shared incentives and ongoing co-operation.</td></tr>
 <tr><td valign="top">3. <b>Listen and learn</b></td><td valign="top">Build upon previous and complementary work.</td></tr>
 <tr><td valign="top">4. <b>Build a business case</b></td><td valign="top">Sustainable change needs top-down support. Build a strong, evidence-based business case and a compelling narrative for high-level buy-in and funding.</td></tr>
