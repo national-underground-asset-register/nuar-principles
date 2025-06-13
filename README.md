@@ -23,10 +23,10 @@ They are sequenced in chronological order of commencing a project to the early s
 ## Contents
 
 - **README.md** - this README file
-- **[1 - 15 Principles for successful delivery.md](https://github.com/national-underground-asset-register/nuar-principles/blob/c76330d11b4b24ba3613c94657b9ecfc3cd66208/1%20-%2015%20Principles%20for%20successful%20delivery.md)** - a tabular summary of the principles and key learnings
+- **[1 - 15 Principles for successful delivery.md](https://github.com/national-underground-asset-register/nuar-principles/blob/f57eb62e90cc0843406970642a0494cb6a01346e/1%20-%2015%20Principles%20for%20successful%20delivery.md)** - a tabular summary of the principles and key learnings
 - **[2 - Appendix 1 - Detailed considerations for the 15 principles.md](https://github.com/national-underground-asset-register/nuar-principles/blob/c76330d11b4b24ba3613c94657b9ecfc3cd66208/2%20-%20Appendix%201%20-%20Detailed%20considerations%20for%20the%2015%20principles.md)** - Appendix providing additional detail and elaboration of each principle
 - **[3 - Appendix 2 - Delegations involved.md](https://github.com/national-underground-asset-register/nuar-principles/blob/c76330d11b4b24ba3613c94657b9ecfc3cd66208/3%20-%20Appendix%202%20-%20Delegations%20involved.md)** - a list of the organisations from across the world whose delegations contributed to the development of the principles
-- **[/PDFs/](https://github.com/national-underground-asset-register/nuar-principles/tree/7fa2daf97ad7767bd1d4ed7c6a0deceac21c859b/PDFs)**
+- **[/PDFs/](https://github.com/national-underground-asset-register/nuar-principles/tree/7fa2daf97ad7767bd1d4ed7c6a0deceac21c859b/PDFs)** - folder containing the artefacts in PDF format
 
 ## Licence
 
